@@ -19,3 +19,18 @@ ShowToc = true
 TocOpen = false
 ShowPostNavLinks = true
 ShowCodeCopyButtons = true
+
+[params.profileMode]
+enabled = true
+title = "SunLite"
+subtitle = "技术、生活和个人记录"
+imageUrl = "images/sunlite-avatar.png"
+imageTitle = "SunLite avatar"
+imageWidth = 150
+imageHeight = 150
+
+[params.assets]
+favicon = "/favicon.ico"
+favicon16x16 = "/favicon-16x16.png"
+favicon32x32 = "/favicon-32x32.png"
+apple_touch_icon = "/apple-touch-icon.png"
