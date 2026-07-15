@@ -1,12 +1,9 @@
 +++
 date = '2026-07-15T00:37:47+08:00'
 draft = false
-title = 'About'
+title = '关于我'
 hiddenInHomeList = true
 +++
-
-
-# 关于我
 
 本科就读某校“信息管理与信息系统”专业，研究生跨考“知识产权”
 
@@ -15,5 +12,3 @@ hiddenInHomeList = true
 中时候的梦想是嵌入式，
 
 大时候的梦想是编制躺平，除非公司愿意出钱。
-
-  
