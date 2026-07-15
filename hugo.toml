@@ -21,7 +21,7 @@ ShowPostNavLinks = true
 ShowCodeCopyButtons = true
 
 [params.profileMode]
-enabled = true
+enabled = false
 title = "SunLite"
 subtitle = "技术、生活和个人记录"
 imageUrl = "images/sunlite-avatar.png"
