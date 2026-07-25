@@ -2,7 +2,7 @@
 categories:
 - 运维
 date: "2026-07-25T08:00:12+08:00"
-draft: true
+draft: false
 lastmod: "2026-07-25T15:28:12+08:00"
 slug: codex-in-wsl
 tags:
