@@ -1,13 +1,23 @@
 baseURL = "https://sunlite.top/"
-locale = "zh-CN"
+languageCode = "zh-CN"
 defaultContentLanguage = "zh"
 hasCJKLanguage = true
+
 title = "SunLite's Book"
 theme = "PaperMod"
+
 enableRobotsTXT = true
+enableGitInfo = true
+
+[permalinks.page]
+posts = "/posts/:slug/"
 
 [pagination]
 pagerSize = 10
+
+[frontmatter]
+date = ["date", "publishDate"]
+lastmod = ["lastmod", ":git", ":fileModTime", "date"]
 
 [params]
 description = "SunLite 的技术、生活和个人记录"
