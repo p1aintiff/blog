@@ -12,3 +12,5 @@ hiddenInHomeList = true
 中时候的梦想是嵌入式，
 
 大时候的梦想是编制躺平，除非公司愿意出钱。
+
+Github主页：[p1aintiff (SunLite)](https://github.com/p1aintiff)
